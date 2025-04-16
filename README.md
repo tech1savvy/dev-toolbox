@@ -1,11 +1,20 @@
-# dev-toolbox
-> `mini tools to aid developers`
+# 🧰 DevToolbox
 
-- Compare Text [+](https://platform.text.com/tools/diff-checker) [+](https://devtoolbox-rho.vercel.app/tools/diff-viewer)
+DevToolbox is a powerful and handy developer utility web application that offers a collection of tools like  `color converter`, `QR generator`, `code difference checker`, and `code converters` for multiple programming languages — all in one place.
 
-# Resources
-- Inspiratioin: https://devtoolbox-rho.vercel.app/
-- https://10015.io/
+## 🚀 Features
 
-# Ideas
-- How about renaming as toolbox, and adding other common tools too, and make a sperate dev section in the website?
+- **Color Code Converter** – Convert between HEX, RGB, RGBA, HSL, and get the closest named color.
+- **Diff Checker** – Compare two blocks of code/text and visualize the differences.
+- **Code Converter** – Convert code between C++, Python, Java, JavaScript, and C (in progress).
+- **QR Code Generator** – Instantly generate QR codes from URLs or text.
+- 🧩 More tools coming soon...
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js | Vite
+- **Styling**: CSS Modules (Vanilla CSS)
+- **Backend**: Node.js | Express | axios
+- **Other Tools**: HuggingFace LLM Inference | Gemini DeepMinds Integration | Flask | Js Libraries | Git | Docker
+
+
